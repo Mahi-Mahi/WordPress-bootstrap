@@ -1,0 +1,15 @@
+/shared
+/local-config.php
+/sql-dump-*.sql
+/adminer*
+/db-sync
+/content/upgrade/
+/content/uploads/
+/content/thumbnails/
+/content/minify/
+.settings
+*.aptana.*
+.project
+.svn
+*.svn
+.DS_Store

@@ -1,0 +1,6 @@
+[submodule "wp"]
+	path = wp
+	url = git://github.com/WordPress/WordPress.git
+[submodule "content/plugins/akismet"]
+	path = content/plugins/akismet
+	url = git://github.com/WordPress-Plugins-Themes/akismet.git
